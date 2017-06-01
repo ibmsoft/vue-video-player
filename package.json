@@ -28,6 +28,6 @@
   },
   "homepage": "https://github.com/surmon-china/vue-video-player#readme",
   "dependencies": {
-    "video.js": "^5.11.7"
+    "video.js": "^6.2.0"
   }
 }
